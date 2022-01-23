@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "employee_id": "101",
+      "first_name": "Romy",
+      "last_name": "Redowan",
+      "email": "r@gmail.com",
+      "phone_number": "01935285562",
+      "nid": "225052641646",
+      "address": "Dhaka"
+    },
+    {
+      "id": 3,
+      "employee_id": "102",
+      "first_name": "Hridoy",
+      "last_name": "Hasan",
+      "email": "ri@gmail.com",
+      "phone_number": "01935285562",
+      "nid": "2250526416463",
+      "address": "Dhaka"
+    },
+    {
+      "id": 4,
+      "employee_id": "103",
+      "first_name": "Sabbir",
+      "last_name": "Ahmed",
+      "email": "s@gmail.com",
+      "phone_number": "01796974557",
+      "nid": "554365828565",
+      "address": "Dhaka"
+    },
+    {
+      "employee_id": "104",
+      "first_name": "Shorif",
+      "last_name": "Uddin",
+      "email": "s@gmail.com",
+      "phone_number": "01935285562",
+      "nid": "2250526416463",
+      "address": "Dhaka",
+      "id": 5
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
